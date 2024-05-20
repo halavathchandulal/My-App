@@ -1,0 +1,24 @@
+.note-form {
+  margin-bottom: 20px;
+}
+
+.note-form input {
+  width: 300px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.note-form button {
+  padding: 10px 20px;
+  margin-left: 10px;
+  background: #4caf50;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.note-form button:hover {
+  background: #45a049;
+}
